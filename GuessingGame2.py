@@ -15,4 +15,4 @@ def Guess_game(x):
     print(f"It took you {tries + 1} attempts to guess the number.")
 
 
-Guess_game(15)
+Guess_game(20)
