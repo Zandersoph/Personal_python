@@ -1,4 +1,4 @@
-print("Do you believe in Astrology, wanderer?")
+print("Do you believe in Astrology, traveller?")
 a = int(input("Press 1 if you are believer, if not Press 0 to see the light.""\n"))
 b = bool(a)
 if b is True:
